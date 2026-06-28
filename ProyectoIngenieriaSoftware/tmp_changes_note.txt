@@ -1,0 +1,1 @@
+Edits in progress: enable habitacion select, add change listener, adjust search width and button size, align Register button right.
